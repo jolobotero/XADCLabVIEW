@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sat Jul 25 20:21:21 2026
+# Process ID: 2260
+# Current directory: D:/P_vhdl_Vi/xadc_axiLite/xadc_axiLite.runs/design_1_processing_system7_0_0_synth_1
+# Command line: vivado.exe -log design_1_processing_system7_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_processing_system7_0_0.tcl
+# Log file: D:/P_vhdl_Vi/xadc_axiLite/xadc_axiLite.runs/design_1_processing_system7_0_0_synth_1/design_1_processing_system7_0_0.vds
+# Journal file: D:/P_vhdl_Vi/xadc_axiLite/xadc_axiLite.runs/design_1_processing_system7_0_0_synth_1\vivado.jou
+# Running On: JORGECASA, OS: Windows, CPU Frequency: 3000 MHz, CPU Physical cores: 4, Host memory: 8486 MB
+#-----------------------------------------------------------
+source design_1_processing_system7_0_0.tcl -notrace

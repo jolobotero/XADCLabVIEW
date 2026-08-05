@@ -1,0 +1,4 @@
+all:
+{
+    xadc_axiLite.bit
+}
